@@ -44,7 +44,7 @@ fylo-landing-page/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fylo-landing-page.git
+https://github.com/hamzamkhalil314-bit/Fylo-dark-theme-Landing-Page
 ```
 
 2. Open the project folder.
