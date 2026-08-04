@@ -76,7 +76,7 @@ While building this project, I practiced:
 
 **Hamza Khalil**
 
-- GitHub: https://github.com/your-username
+- https://github.com/hamzamkhalil314-bit
 
 ## 🙏 Acknowledgements
 
